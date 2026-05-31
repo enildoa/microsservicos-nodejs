@@ -1,5 +1,5 @@
 {
-  "name": "app-orders",
+  "name": "app-invoices",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,9 +21,7 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@opentelemetry/api": "^1.9.1",
     "@opentelemetry/auto-instrumentations-node": "^0.76.0",
-    "@opentelemetry/instrumentation-amqplib": "^0.65.0",
     "@opentelemetry/sdk-node": "^0.218.0",
     "@opentelemetry/sdk-trace-node": "^2.7.1",
     "@tsconfig/node22": "^22.0.5",
