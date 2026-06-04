@@ -15,6 +15,13 @@
       "when": 1780167138499,
       "tag": "0001_foamy_blazing_skull",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1780167138500,
+      "tag": "0002_seed_customer",
+      "breakpoints": true
     }
   ]
 }
